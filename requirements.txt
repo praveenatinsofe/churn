@@ -5,4 +5,4 @@ joblib==0.13.2
 sqlalchemy
 mysql-connector-python
 jupyter
-scipy==1.2.4
+scipy==2
